@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-29T23:00:55.056Z",
-  "expires_at": "2026-07-30T01:00:55.056Z",
+  "generated_at": "2026-07-30T00:53:41.102Z",
+  "expires_at": "2026-07-30T02:53:41.102Z",
   "recommended_order": [
     "bwa",
     "online_mod",
@@ -10,7 +10,7 @@
   "plugins": {
     "bwa": {
       "status": "up",
-      "checked_at": "2026-07-29T23:00:55.056Z",
+      "checked_at": "2026-07-30T00:53:41.102Z",
       "routes": {
         "filmix": {
           "status": "unknown"
@@ -22,7 +22,7 @@
     },
     "online_mod": {
       "status": "up",
-      "checked_at": "2026-07-29T23:00:55.056Z",
+      "checked_at": "2026-07-30T00:53:41.102Z",
       "routes": {
         "filmix": {
           "status": "unknown"
@@ -34,7 +34,7 @@
     },
     "showy": {
       "status": "up",
-      "checked_at": "2026-07-29T23:00:55.056Z",
+      "checked_at": "2026-07-30T00:53:41.102Z",
       "routes": {
         "filmix": {
           "status": "unknown"
